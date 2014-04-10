@@ -1,0 +1,29 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title>Web-Дизайн</title>
+</head>
+<body bgcolor="magento" text="blue">
+    <ul>
+        <li>нумеровані:</li>
+        <ol>
+            <li>арабські цифри;</li>
+            <li>великі римські цифри;</li>
+            <li>маленькі римсьві цифри;</li>
+            <li>великі латинські букви;</li>
+            <li>маленькі латинські букви;</li>
+            <ol>
+                <li>також вкладені;</li>
+            </ol>
+        </ol>
+        <li>марковані:</li>
+        <ul>
+            <li>не зафарбовані кружечки;</li>
+            <li>зафарбовані кружечки;</li>
+            <li>квадратики;</li>
+            <ul type="square">
+                <li>а також вкладені</li>
+            </ul>
+        </ul>
+</body>
+</html>
